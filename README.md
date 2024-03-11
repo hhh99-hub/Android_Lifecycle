@@ -23,7 +23,7 @@ Count incremented by 5:
 </br>
 Activity C opened:
 </br>
-<img width="222" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic3.png?raw=true">
+<img width="222" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic4.png?raw=true">
 </br>
 Count incremented to 15:
 </br>
