@@ -18,7 +18,7 @@ Activity B opened:
 </br>
 Count incremented by 5:
 </br>
-<img width="222" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic2.png?raw=true">
+<img width="222" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic3.png?raw=true">
 </br>
 </br>
 Activity C opened:
