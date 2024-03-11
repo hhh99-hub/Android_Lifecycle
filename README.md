@@ -14,33 +14,33 @@ Home screen:
 
 Activity B opened:
 </br>
-<img width="200" alt="image" src="https://github.com/MohitSinghvi/android-lifecycle/assets/35193178/a59dc0b3-a471-40cc-a2c0-440c61a62fab">
+<img width="200" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic2.png?raw=true">
 </br>
 Count incremented by 5:
 </br>
-<img width="222" alt="image" src="https://github.com/MohitSinghvi/android-lifecycle/assets/35193178/646f3ebd-e616-4909-9a58-a397ff19dde6">
+<img width="222" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic2.png?raw=true">
 </br>
 </br>
 Activity C opened:
 </br>
-<img width="222" alt="image" src="https://github.com/MohitSinghvi/android-lifecycle/assets/35193178/a4d21505-ec99-4cbf-b17b-0d437099d29b">
+<img width="222" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic3.png?raw=true">
 </br>
-Count incremented to 10:
+Count incremented to 15:
 </br>
 </br>
 
-<img width="232" alt="image" src="https://github.com/MohitSinghvi/android-lifecycle/assets/35193178/d9838b37-9f7f-4e9c-b28f-9b94dbe3ac8e">
+<img width="232" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic4.png?raw=true">
 
 </br>
 Dialog opened:
 </br>
 </br>
-<img width="231" alt="image" src="https://github.com/MohitSinghvi/android-lifecycle/assets/35193178/3542dad9-df8b-43a0-9f9d-784b765ad661">
+<img width="231" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic%206%20.png?raw=true">
 </br>
 Count remains unchanged:
 </br>
 </br>
-<img width="232" alt="image" src="https://github.com/MohitSinghvi/android-lifecycle/assets/35193178/910d5333-7a50-4d6e-891c-30e00df6faf5">
+<img width="232" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic4.png?raw=true">
 
 
 
