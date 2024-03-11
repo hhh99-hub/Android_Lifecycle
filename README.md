@@ -8,13 +8,13 @@ On the other hand, when a dialog Activity is opened, and we go back to the previ
 
 Home screen:
 
-<img width="201" alt="image" src="https://github.com/MohitSinghvi/android-lifecycle/assets/35193178/cd4c37c5-bb54-44a7-a8f7-4687e90af37f">
+<img width="201" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic1.png?raw=true">
 
 </br>
 
 Activity B opened:
 </br>
-<img width="200" alt="image" src="https://github.com/hhh99-hub/Android_Lifecycle/blob/main/Images/pic1.png?raw=true">
+<img width="200" alt="image" src="https://github.com/MohitSinghvi/android-lifecycle/assets/35193178/a59dc0b3-a471-40cc-a2c0-440c61a62fab">
 </br>
 Count incremented by 5:
 </br>
